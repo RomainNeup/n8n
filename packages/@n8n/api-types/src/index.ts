@@ -65,6 +65,9 @@ export {
 	type ChatHubMessageButton,
 	chatHubMessageWithButtonsSchema,
 	type ChatHubMessageWithButtons,
+	type ChatHubToolDto,
+	ChatHubCreateToolRequest,
+	ChatHubUpdateToolRequest,
 } from './chat-hub';
 
 export type {
