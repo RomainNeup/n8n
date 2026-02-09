@@ -59,6 +59,7 @@ export interface IEnterpriseSettings {
 		};
 	};
 	customRoles: boolean;
+	personalSpacePolicy: boolean;
 }
 
 export interface FrontendSettings {

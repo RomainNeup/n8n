@@ -50,6 +50,7 @@ export const defaultSettings: FrontendSettings = {
 			},
 		},
 		customRoles: false,
+		personalSpacePolicy: false,
 	},
 	executionMode: 'regular',
 	isMultiMain: false,
